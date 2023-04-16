@@ -1,0 +1,42 @@
+body {
+    background-color: bisque;
+}
+
+.uno {
+    background-color: green;
+}
+
+.due {
+    background-color: white;
+}
+
+.tre {
+    background-color: red;
+    width: 500px;
+}
+
+a {
+    color: black;
+    font-size: 50px;
+}
+
+ol, ul {
+    background-color: blanchedalmond;
+    width: 800px;
+    padding-bottom: 10px;
+}
+
+ul {
+    border-style: dotted;
+}
+
+ol {
+    border-style:double;
+}
+
+.inside {
+    border-style:none;
+    width: fit-content;
+}
+
+
